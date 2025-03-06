@@ -13,7 +13,7 @@ A secure blog API built with Node.js, Express, Mongoose, and JWT authentication.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <your-github-repo-url>
+   git clone <https://github.com/jishadaj/Secure_blog_api-s.git>
 2. npm install 
 3. Create a .env file in the root directory with the following variables:
  - PORT=4000
